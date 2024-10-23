@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <details open>
   <summary><h2> 💫 About Me </h2></summary>
 
-  <p>
-    🔭 **I’m currently working as** a Lead Consultant and a Solutions Architect, focusing on Data & AI across multiple projects and leading the development of a company-wide data platform.  
-    👯 **I’m looking to collaborate on** innovative data-driven solutions, AI applications, and enterprise data platform architecture.  
-    🤝 **I’m looking for help with exploring** cutting-edge AI tools and scaling data platforms to support large-scale enterprise needs.  
-    🌱 **I’m currently learning more in-depth information about** Generative AI (GenAI) and expanding my knowledge in advanced AI frameworks.  
-    💬 **Ask me about** data architecture, machine learning, AI strategies, and leading technical teams with a People Lead mindset.  
-    ⚡ **Fun fact:** I enjoy breaking down complex data problems just as much as I enjoy building LEGO models!
-  </p>
+  
+  🔭 **I’m currently working as** a Lead Consultant and a Solutions Architect, focusing on Data & AI across multiple projects and leading the development of a company-wide data platform.  
+  👯 **I’m looking to collaborate on** innovative data-driven solutions, AI applications, and enterprise data platform architecture.  
+  🤝 **I’m looking for help with exploring** cutting-edge AI tools and scaling data platforms to support large-scale enterprise needs.  
+  🌱 **I’m currently learning more in-depth information about** Generative AI (GenAI) and expanding my knowledge in advanced AI frameworks.  
+  💬 **Ask me about** data architecture, machine learning, AI strategies, and leading technical teams with a People Lead mindset.  
+  ⚡ **Fun fact:** I enjoy breaking down complex data problems just as much as I enjoy building LEGO models!
+  
 </details>
 
 <details> 
