@@ -15,25 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💫 About Me:
+<details open>
+<summary><h2> 💫 About Me </h2></summary>
+  
 🔭 **I’m currently working as** a Lead Consultant and a Solutions Architect, focusing on Data & AI across multiple projects and leading the development of a company-wide data platform.  
 👯 **I’m looking to collaborate on** innovative data-driven solutions, AI applications, and enterprise data platform architecture.  
 🤝 **I’m looking for help with exploring** cutting-edge AI tools and scaling data platforms to support large-scale enterprise needs.  
 🌱 **I’m currently learning more in-depth information about** Generative AI (GenAI) and expanding my knowledge in advanced AI frameworks.  
 💬 **Ask me about** data architecture, machine learning, AI strategies, and leading technical teams with a People Lead mindset.  
 ⚡ **Fun fact:** I enjoy breaking down complex data problems just as much as I enjoy building LEGO models!
+</details>
 
+<details> 
+  <summary><h3> 🌐 Social</h3></summary>
 
-### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lauri-kananen) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lauri.kananen) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KananenLauri) 
 <!-- [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa.svg?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/laurikananen/) -->
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/kananenl) -->
+</details>
 
-### 💻 Tech Stack:
-
-#### Languages   
+<details> 
+  <summary><h3> 🛠️💻 Tech Stack</h3></summary>
+  
+  #### Languages   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -135,9 +141,13 @@ Here are some ideas to get you started:
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+</details> 
 
-## 💰 You can help me by Donating
+<details>
+  <summary><h2>💰 You can help me by Donating </h2></summary>
+  
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/laurikananen) 
 
+</details>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
