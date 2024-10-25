@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
 </details>
 
-<details open> 
+<details> 
   <summary><h3> 🛠️💻 Tech Stack</h3></summary>
     
   #### Languages   
